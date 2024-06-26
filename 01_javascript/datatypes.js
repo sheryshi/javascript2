@@ -8,9 +8,15 @@
 
 //object
 
-console.log(typeof undefined)// undefined
-console.log(typeof null);// object
+//console.log(typeof undefined)// undefined
+//console.log(typeof null);// object
 
 // const are the non changable variables
 //let it knows it's scope
 //var it don't know it's scope
+
+//***********  operations   ************* *
+
+let value=3
+let negValue=-value
+console.log(negValue)
